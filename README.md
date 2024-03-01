@@ -24,6 +24,12 @@ To start the game, follow these steps:
 * Timer: Track your time to see how fast you can complete the game.
 * Responsive Design: Play the game on various screen sizes.
 
+## Screenshots 
+![image](https://github.com/UriB1/Memory-card-game/assets/106737885/93504adf-d3bc-47d5-9d9c-e361e69afd87)
+![image](https://github.com/UriB1/Memory-card-game/assets/106737885/82c389a6-68eb-4435-914c-a61bf71afbc6)
+![image](https://github.com/UriB1/Memory-card-game/assets/106737885/33bc2c7b-bc17-4a7e-bc9f-bd29d1ab3345)
+
+
 ## Contributing
 Feel free to contribute by opening issues or creating pull requests.
 
