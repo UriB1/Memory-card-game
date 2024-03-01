@@ -30,8 +30,5 @@ Feel free to contribute by opening issues or creating pull requests.
 ## Acknowledgments
 This project is based on the following [YouTube video](https://youtu.be/xWdkt6KSirw?si=LOA5l3zviJ_KN5gZ) with some new features and logic.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Author of the current version
 [UriB1](https://github.com/UriB1)
